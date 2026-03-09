@@ -16,3 +16,4 @@ Proyecto final para la asignatura **Programación Orientada a Objetos 2** en la 
 ## 🛠️ Requisitos
 * Java JDK 8 o superior.
 * Un IDE como IntelliJ, Eclipse o NetBeans.
+LIKN DE ENLACE https://github.com/johan32bits/SistemaInventario
